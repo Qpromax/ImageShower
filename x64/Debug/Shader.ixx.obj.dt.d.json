@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\files\\hello world\\c++\\imageshower\\src\\shader.ixx",
+        "ProvidedModule": "Shader",
+        "Includes": [
+            "d:\\files\\hello world\\c++\\imageshower\\dependencies\\glad\\include\\glad\\glad.h",
+            "d:\\files\\hello world\\c++\\imageshower\\dependencies\\glad\\include\\khr\\khrplatform.h"
+        ],
+        "ImportedModules": [
+            {
+                "Name": "std",
+                "BMI": "D:\\files\\Hello World\\C++\\ImageShower\\x64\\Debug\\std.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

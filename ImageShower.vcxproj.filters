@@ -87,12 +87,12 @@
     <ClInclude Include="libs\stb_image\stb_image.h">
       <Filter>Stb_img</Filter>
     </ClInclude>
-    <ClInclude Include="Shader.h">
+    <ClInclude Include="src\Shader.h">
       <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="src\textuer.vs">
+    <None Include="src\texture.vs">
       <Filter>源文件</Filter>
     </None>
     <None Include="src\texture.fs">

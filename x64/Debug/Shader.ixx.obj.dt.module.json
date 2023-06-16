@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\files\\hello world\\c++\\imageshower\\src\\shader.ixx",
+        "ProvidedModule": "Shader",
+        "ImportedModules": [
+            "std"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

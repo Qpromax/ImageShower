@@ -1,3 +1,5 @@
+import std;
+
 #include "imgui.h"
 #include "imgui_impl_glfw.h"
 #include "imgui_impl_opengl3.h"
@@ -7,12 +9,7 @@
 
 #include "stb_image.h"
 
-#include <iostream>
-#include <string>
-#include <vector>
-
 #include "src/Shader.h"
-
 
 int main(const int ARGC, const char* ARGV[])
 {

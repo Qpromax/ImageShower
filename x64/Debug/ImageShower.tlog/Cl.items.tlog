@@ -8,3 +8,5 @@ D:\files\Hello World\C++\ImageShower\libs\imgui\imgui_tables.cpp;D:\files\Hello 
 D:\files\Hello World\C++\ImageShower\libs\imgui\imgui_widgets.cpp;D:\files\Hello World\C++\ImageShower\x64\Debug\imgui_widgets.obj
 D:\files\Hello World\C++\ImageShower\libs\stb_image\stb_image.cpp;D:\files\Hello World\C++\ImageShower\x64\Debug\stb_image.obj
 D:\files\Hello World\C++\ImageShower\main.cpp;D:\files\Hello World\C++\ImageShower\x64\Debug\main.obj
+D:\Program Files\Microsoft Visual Studio\VC\Tools\MSVC\14.36.32532\modules\std.ixx;D:\files\Hello World\C++\ImageShower\x64\Debug\std.ixx.obj
+D:\Program Files\Microsoft Visual Studio\VC\Tools\MSVC\14.36.32532\modules\std.compat.ixx;D:\files\Hello World\C++\ImageShower\x64\Debug\std.compat.ixx.obj
