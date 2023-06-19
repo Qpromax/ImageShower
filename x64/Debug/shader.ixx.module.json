@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\shader.ixx.obj",
+            "outputs": [
+                "D:\\files\\Hello World\\C++\\imageShower\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\files\\Hello World\\C++\\imageShower\\x64\\Debug\\shader.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "shader",
+                    "source-path": "d:\\files\\hello world\\c++\\imageshower\\src\\shader.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "std"
+                }
+            ]
+        }
+    ]
+}
